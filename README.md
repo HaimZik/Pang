@@ -1,5 +1,5 @@
 # Pang
-I choose extra credit 2,3
+I choose extra credit 2,3 .
 1 was not chosen becuase what MVC is look to solve I handle in diffrent manner, that is separation of concerns and mediator pattern.
 I like to think first about the problem, which is making a pang game, then architecture which may or may not be like MVC. 
 I did not want to focus on how can I make it the MVC way.
